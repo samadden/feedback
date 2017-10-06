@@ -4713,7 +4713,7 @@ input.usa-input-medium {
   position: fixed;
   left: 20vw;
   top: 10vh;
-  padding: 2rem 6rem;
+  padding: 1rem 6rem;
   background-color: white;
   box-shadow: 0 0 0 50vw rgba(0,0,0,0.2), 0 1px 10px black;
   z-index: 9999;
